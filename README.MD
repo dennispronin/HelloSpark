@@ -1,0 +1,1 @@
+Basic REST API to explore how Spark Java works
